@@ -1,0 +1,47 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# Compiled files
+/dist
+/build
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# PM2 process files
+pids/
+*.pid
+
+# Optional: MySQL dumps
+*.sql
+*.dump.sql
+package-lock.json
